@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Hi every1
+i'm ali and new here...
+i hope we get along well in the future and do some great works while we are at it ...
